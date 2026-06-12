@@ -1,0 +1,8 @@
+{
+  "id": "theme-ivory",
+  "name": "Ivory",
+  "version": "1.0.0",
+  "description": "Warm paper-white light theme with a terracotta accent.",
+  "author": "Tokyo",
+  "main": "index.js"
+}
